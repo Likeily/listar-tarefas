@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311572687769",
+    "firebase_url": "https://listar-tarefas-f7c02.firebaseio.com",
+    "project_id": "listar-tarefas-f7c02",
+    "storage_bucket": "listar-tarefas-f7c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311572687769:android:8e4e1fe5394e5208280108",
+        "android_client_info": {
+          "package_name": "br.com.medeiros.lista_tarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311572687769-aimaj8s88fumrfk5p0grh6n7ubot8o40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxagP3-TzkH8xG2y1YvtSh--XVzNp3brM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311572687769-aimaj8s88fumrfk5p0grh6n7ubot8o40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
